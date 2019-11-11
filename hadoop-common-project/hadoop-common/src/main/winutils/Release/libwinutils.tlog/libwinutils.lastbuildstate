@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Release|Win32|D:\hadoop2.8.4-zk\hadoop-2.8.4-src\hadoop-common-project\hadoop-common\src\main\winutils\|
